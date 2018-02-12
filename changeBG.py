@@ -14,4 +14,4 @@ del response
 
 
 
-os.system('gsettings set org.gnome.desktop.background picture-uri \'file:/home/prdtr/Desktop/Projects/bgRandom/img.jpg\'')
+os.system('gsettings set org.gnome.desktop.background picture-uri \'file:~./img.jpg\'')
