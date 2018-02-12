@@ -3,11 +3,11 @@
 
 
 Create a 'CRON job' in Ubuntu by doing the following:  
-'''
-crontab -e  
+
+> crontab -e  
   
 Add this line to the end of the document:  
-*/2 * * * * /PATH/TO/FOLDER/changeBG.py  
-'''
+> */2 * * * * /PATH/TO/FOLDER/changeBG.py  
+
 
 Changes Wallpaper every 2 minutes
