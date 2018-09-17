@@ -2,6 +2,8 @@
 ### Unsplash Random API(might contain NSFW images)  
 1600x900 resolution.
 
+Make the script executable:
+> chmod a+x changeBG.py
 
 Create a 'CRON job' in Ubuntu by doing the following:  
 
